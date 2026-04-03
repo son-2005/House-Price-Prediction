@@ -1,4 +1,4 @@
-# House Price Prediction using PyTorch
+# Տան գների կանխատեսում (PyTorch)
 
 ## Նախագծի կառուցվածքը
 * `Housing.csv`: Տվյալների բազա (տների մակերես, սենյակների քանակ և այլն):
